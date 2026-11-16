@@ -1,0 +1,615 @@
+﻿Date,Client_Info,Service_Type,Quantity,Amount,Cost,Status
+2026-05-01,Fleet - Aramex,Wax Gift + Wash,1,100.0,37.0,Completed
+2026-05-01,Dana Sami,Interior Steam Clean,1,70.0,21.71,Completed
+2026-05-01,Maya Faris,Tire & Rim Care,1,30.0,7.91,Completed
+2026-05-01,Fleet - Jordan Taxi,Interior Steam Clean,1,70.0,21.31,Completed
+2026-05-02,Dana Sami,Full Detailing,1,123.47,57.01,Pending
+2026-05-02,Omar Zaid,Engine Bay Clean,1,60.0,17.53,Completed
+2026-05-02,Dana Sami,Exterior Wash,1,45.0,11.11,Completed
+2026-05-02,Khaled Mansour,Silver Shine Package,1,150.0,51.35,Completed
+2026-05-02,Fleet - Al Salam Co,Interior Steam Clean,1,70.0,19.25,Completed
+2026-05-02,Fleet - Al Salam Co,Tire & Rim Care,1,30.0,7.66,Completed
+2026-05-03,Lina Haddad,Tire & Rim Care,1,27.54,8.26,Completed
+2026-05-04,Maya Faris,Engine Bay Clean,1,54.02,18.23,Completed
+2026-05-04,Tariq Aziz,Exterior Wash,1,45.0,12.13,Completed
+2026-05-04,Khaled Mansour,Wax Gift + Wash,1,100.0,34.56,Completed
+2026-05-05,Fleet - Jordan Taxi,Ceramic Coating,1,400.0,145.87,Completed
+2026-05-06,Omar Zaid,Full Detailing,1,150.0,58.45,Completed
+2026-05-06,Lina Haddad,Full Detailing,1,122.03,57.45,Completed
+2026-05-06,Fleet - Jordan Taxi,Silver Shine Package,1,150.0,48.38,Completed
+2026-05-07,Maya Faris,Engine Bay Clean,1,60.0,16.52,Completed
+2026-05-07,Rana Khalil,Exterior Wash,1,45.0,12.48,Pending
+2026-05-07,Yousef Nasser,Silver Shine Package,1,150.0,54.9,Completed
+2026-05-08,Ahmad Omar,Engine Bay Clean,1,60.0,16.93,Completed
+2026-05-08,Yousef Nasser,Engine Bay Clean,1,60.0,16.84,Completed
+2026-05-09,Fleet - Al Salam Co,Tire & Rim Care,1,30.0,7.99,Completed
+2026-05-09,Rana Khalil,Interior Steam Clean,1,57.09,20.35,Completed
+2026-05-09,Fleet - Aramex,Interior Steam Clean,1,70.0,19.39,Completed
+2026-05-09,Khaled Mansour,Wax Gift + Wash,1,94.38,34.88,Completed
+2026-05-09,Maya Faris,Tire & Rim Care,1,26.19,8.7,Completed
+2026-05-09,Khaled Mansour,Interior Steam Clean,1,70.0,19.07,Pending
+2026-05-10,Sari Refai,Full Detailing,1,150.0,51.04,Completed
+2026-05-10,Khaled Mansour,Full Detailing,1,135.13,52.59,Completed
+2026-05-11,Fleet - Aramex,Engine Bay Clean,1,60.0,16.33,Completed
+2026-05-11,Khaled Mansour,Interior Steam Clean,1,70.0,21.32,Completed
+2026-05-12,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,8.7,Completed
+2026-05-12,Lina Haddad,Interior Steam Clean,1,60.57,21.97,Completed
+2026-05-13,Rana Khalil,Ceramic Coating,1,400.0,155.96,Completed
+2026-05-13,Ahmad Omar,Ceramic Coating,1,400.0,152.4,Completed
+2026-05-13,Sari Refai,Ceramic Coating,1,400.0,170.6,Completed
+2026-05-13,Ahmad Omar,Ceramic Coating,1,400.0,163.18,Completed
+2026-05-14,Rana Khalil,Tire & Rim Care,1,30.0,8.0,Cancelled
+2026-05-15,Lina Haddad,Interior Steam Clean,1,63.12,18.49,Completed
+2026-05-16,Khaled Mansour,Wax Gift + Wash,1,81.86,34.28,Pending
+2026-05-16,Yousef Nasser,Ceramic Coating,1,400.0,165.21,Completed
+2026-05-16,Fleet - Aramex,Ceramic Coating,1,400.0,144.8,Pending
+2026-05-16,Khaled Mansour,Wax Gift + Wash,1,100.0,32.24,Completed
+2026-05-16,Sari Refai,Interior Steam Clean,1,70.0,20.38,Pending
+2026-05-17,Ahmad Omar,Engine Bay Clean,1,60.0,19.07,Completed
+2026-05-17,Tariq Aziz,Interior Steam Clean,1,70.0,21.47,Completed
+2026-05-17,Khaled Mansour,Tire & Rim Care,1,30.0,7.8,Pending
+2026-05-17,Fleet - Aramex,Silver Shine Package,1,150.0,51.52,Completed
+2026-05-18,Tariq Aziz,Ceramic Coating,1,400.0,147.37,Completed
+2026-05-19,Rana Khalil,Exterior Wash,1,45.0,11.15,Completed
+2026-05-20,Ahmad Omar,Wax Gift + Wash,1,80.32,31.89,Completed
+2026-05-20,Dana Sami,Interior Steam Clean,1,62.21,19.57,Completed
+2026-05-21,Lina Haddad,Silver Shine Package,1,150.0,49.39,Completed
+2026-05-21,Yousef Nasser,Wax Gift + Wash,1,100.0,34.12,Completed
+2026-05-21,Dana Sami,Ceramic Coating,1,370.01,145.66,Completed
+2026-05-21,Fleet - Al Salam Co,Ceramic Coating,1,370.61,175.35,Pending
+2026-05-22,Dana Sami,Full Detailing,1,150.0,54.59,Completed
+2026-05-22,Yousef Nasser,Silver Shine Package,1,150.0,48.25,Completed
+2026-05-22,Dana Sami,Silver Shine Package,1,150.0,49.22,Completed
+2026-05-22,Tariq Aziz,Full Detailing,1,150.0,53.67,Completed
+2026-05-22,Maya Faris,Interior Steam Clean,1,70.0,21.8,Completed
+2026-05-23,Sari Refai,Ceramic Coating,1,400.0,167.52,Completed
+2026-05-23,Lina Haddad,Exterior Wash,1,45.0,12.87,Pending
+2026-05-23,Maya Faris,Interior Steam Clean,1,70.0,20.9,Completed
+2026-05-23,Ahmad Omar,Wax Gift + Wash,1,100.0,32.46,Pending
+2026-05-23,Omar Zaid,Ceramic Coating,1,400.0,169.04,Completed
+2026-05-23,Fleet - Al Salam Co,Ceramic Coating,1,400.0,152.11,Completed
+2026-05-24,Lina Haddad,Wax Gift + Wash,1,100.0,35.45,Completed
+2026-05-25,Dana Sami,Wax Gift + Wash,1,100.0,38.02,Completed
+2026-05-25,Dana Sami,Exterior Wash,1,36.59,11.8,Completed
+2026-05-25,Fleet - Al Salam Co,Ceramic Coating,1,400.0,154.68,Completed
+2026-05-25,Maya Faris,Ceramic Coating,1,400.0,155.65,Completed
+2026-05-26,Ahmad Omar,Ceramic Coating,1,400.0,158.01,Completed
+2026-05-27,Sari Refai,Silver Shine Package,1,150.0,56.69,Completed
+2026-05-27,Ahmad Omar,Silver Shine Package,1,150.0,53.43,Completed
+2026-05-27,Sari Refai,Exterior Wash,1,45.0,10.83,Completed
+2026-05-27,Omar Zaid,Exterior Wash,1,45.0,11.51,Pending
+2026-05-27,Sari Refai,Silver Shine Package,1,150.0,56.35,Completed
+2026-05-28,Fleet - Aramex,Silver Shine Package,1,150.0,49.75,Completed
+2026-05-29,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,7.59,Completed
+2026-05-29,Ahmad Omar,Silver Shine Package,1,150.0,48.86,Completed
+2026-05-29,Fleet - Jordan Taxi,Ceramic Coating,1,400.0,144.17,Completed
+2026-05-29,Sari Refai,Interior Steam Clean,1,70.0,21.21,Pending
+2026-05-30,Fleet - Al Salam Co,Interior Steam Clean,1,70.0,18.16,Completed
+2026-05-30,Lina Haddad,Silver Shine Package,1,131.35,54.55,Completed
+2026-05-30,Omar Zaid,Engine Bay Clean,1,60.0,18.84,Completed
+2026-05-30,Lina Haddad,Exterior Wash,1,45.0,12.5,Completed
+2026-05-31,Sari Refai,Ceramic Coating,1,400.0,172.29,Completed
+2026-06-01,Lina Haddad,Tire & Rim Care,1,30.0,7.93,Completed
+2026-06-01,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,7.43,Completed
+2026-06-02,Fleet - Aramex,Silver Shine Package,1,131.44,51.0,Pending
+2026-06-02,Fleet - Aramex,Silver Shine Package,1,123.02,49.97,Completed
+2026-06-02,Omar Zaid,Wax Gift + Wash,1,100.0,35.94,Cancelled
+2026-06-02,Fleet - Al Salam Co,Silver Shine Package,1,150.0,52.92,Completed
+2026-06-03,Omar Zaid,Full Detailing,1,150.0,51.98,Completed
+2026-06-04,Rana Khalil,Wax Gift + Wash,1,100.0,34.52,Completed
+2026-06-04,Maya Faris,Wax Gift + Wash,1,100.0,35.09,Completed
+2026-06-04,Ahmad Omar,Engine Bay Clean,1,60.0,18.01,Pending
+2026-06-04,Dana Sami,Engine Bay Clean,1,60.0,17.33,Completed
+2026-06-05,Fleet - Al Salam Co,Tire & Rim Care,1,30.0,7.65,Completed
+2026-06-05,Rana Khalil,Wax Gift + Wash,1,100.0,33.7,Completed
+2026-06-06,Tariq Aziz,Engine Bay Clean,1,60.0,17.54,Completed
+2026-06-07,Rana Khalil,Wax Gift + Wash,1,100.0,38.47,Completed
+2026-06-07,Fleet - Al Salam Co,Tire & Rim Care,1,30.0,8.33,Completed
+2026-06-08,Lina Haddad,Engine Bay Clean,1,60.0,16.79,Completed
+2026-06-08,Fleet - Jordan Taxi,Interior Steam Clean,1,70.0,20.22,Cancelled
+2026-06-09,Omar Zaid,Tire & Rim Care,1,27.4,7.89,Completed
+2026-06-09,Yousef Nasser,Silver Shine Package,1,150.0,56.23,Completed
+2026-06-09,Sari Refai,Ceramic Coating,1,400.0,153.35,Completed
+2026-06-10,Fleet - Al Salam Co,Silver Shine Package,1,150.0,53.43,Completed
+2026-06-10,Maya Faris,Wax Gift + Wash,1,100.0,36.84,Completed
+2026-06-11,Rana Khalil,Exterior Wash,1,45.0,12.64,Completed
+2026-06-11,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,19.47,Completed
+2026-06-12,Fleet - Aramex,Wax Gift + Wash,1,100.0,35.92,Pending
+2026-06-12,Lina Haddad,Silver Shine Package,1,150.0,48.79,Completed
+2026-06-12,Maya Faris,Exterior Wash,1,45.0,11.54,Completed
+2026-06-12,Khaled Mansour,Interior Steam Clean,1,58.92,20.81,Completed
+2026-06-13,Fleet - Al Salam Co,Engine Bay Clean,1,60.0,18.19,Completed
+2026-06-13,Maya Faris,Ceramic Coating,1,400.0,175.51,Completed
+2026-06-13,Fleet - Aramex,Full Detailing,1,150.0,53.31,Completed
+2026-06-13,Ahmad Omar,Exterior Wash,1,41.25,11.98,Completed
+2026-06-13,Rana Khalil,Ceramic Coating,1,400.0,157.17,Cancelled
+2026-06-13,Fleet - Al Salam Co,Exterior Wash,1,39.75,12.72,Completed
+2026-06-13,Yousef Nasser,Ceramic Coating,1,400.0,155.93,Completed
+2026-06-13,Sari Refai,Ceramic Coating,1,360.52,166.82,Completed
+2026-06-13,Tariq Aziz,Tire & Rim Care,1,30.0,8.48,Completed
+2026-06-14,Yousef Nasser,Ceramic Coating,1,400.0,171.46,Completed
+2026-06-15,Tariq Aziz,Exterior Wash,1,45.0,12.41,Completed
+2026-06-15,Yousef Nasser,Full Detailing,1,150.0,53.33,Completed
+2026-06-16,Khaled Mansour,Tire & Rim Care,1,30.0,7.5,Completed
+2026-06-16,Ahmad Omar,Engine Bay Clean,1,60.0,18.78,Completed
+2026-06-17,Lina Haddad,Tire & Rim Care,1,30.0,8.32,Cancelled
+2026-06-17,Khaled Mansour,Engine Bay Clean,1,60.0,19.5,Completed
+2026-06-17,Ahmad Omar,Silver Shine Package,1,128.22,48.9,Completed
+2026-06-18,Omar Zaid,Full Detailing,1,150.0,53.28,Completed
+2026-06-19,Fleet - Jordan Taxi,Silver Shine Package,1,150.0,52.31,Pending
+2026-06-19,Tariq Aziz,Ceramic Coating,1,400.0,164.91,Completed
+2026-06-19,Yousef Nasser,Full Detailing,1,150.0,51.21,Completed
+2026-06-19,Fleet - Jordan Taxi,Full Detailing,1,150.0,55.68,Completed
+2026-06-19,Maya Faris,Tire & Rim Care,1,30.0,7.96,Completed
+2026-06-20,Maya Faris,Silver Shine Package,1,150.0,52.13,Pending
+2026-06-20,Tariq Aziz,Silver Shine Package,1,141.59,47.23,Completed
+2026-06-20,Yousef Nasser,Exterior Wash,1,39.07,12.04,Completed
+2026-06-20,Maya Faris,Full Detailing,1,122.51,50.17,Completed
+2026-06-20,Tariq Aziz,Ceramic Coating,1,400.0,153.67,Completed
+2026-06-20,Ahmad Omar,Silver Shine Package,1,150.0,47.97,Completed
+2026-06-20,Fleet - Jordan Taxi,Silver Shine Package,1,131.43,51.89,Completed
+2026-06-21,Khaled Mansour,Full Detailing,1,150.0,54.78,Completed
+2026-06-21,Maya Faris,Tire & Rim Care,1,30.0,7.73,Completed
+2026-06-21,Fleet - Jordan Taxi,Ceramic Coating,1,347.65,148.81,Completed
+2026-06-22,Ahmad Omar,Full Detailing,1,150.0,49.6,Pending
+2026-06-23,Dana Sami,Interior Steam Clean,1,62.51,20.28,Completed
+2026-06-24,Fleet - Jordan Taxi,Full Detailing,1,150.0,51.29,Completed
+2026-06-24,Yousef Nasser,Tire & Rim Care,1,30.0,8.67,Completed
+2026-06-25,Rana Khalil,Interior Steam Clean,1,70.0,20.4,Completed
+2026-06-25,Maya Faris,Interior Steam Clean,1,70.0,18.31,Completed
+2026-06-25,Sari Refai,Tire & Rim Care,1,30.0,7.23,Completed
+2026-06-25,Fleet - Al Salam Co,Interior Steam Clean,1,70.0,20.95,Completed
+2026-06-26,Ahmad Omar,Tire & Rim Care,1,30.0,7.48,Completed
+2026-06-26,Yousef Nasser,Wax Gift + Wash,1,100.0,31.62,Completed
+2026-06-26,Fleet - Aramex,Wax Gift + Wash,1,100.0,32.39,Completed
+2026-06-27,Ahmad Omar,Ceramic Coating,1,400.0,165.24,Completed
+2026-06-27,Fleet - Al Salam Co,Ceramic Coating,1,355.74,151.4,Completed
+2026-06-27,Maya Faris,Tire & Rim Care,1,30.0,8.09,Completed
+2026-06-27,Omar Zaid,Wax Gift + Wash,1,100.0,36.58,Completed
+2026-06-28,Rana Khalil,Wax Gift + Wash,1,100.0,34.36,Completed
+2026-06-28,Ahmad Omar,Ceramic Coating,1,400.0,156.64,Completed
+2026-06-28,Yousef Nasser,Engine Bay Clean,1,56.65,16.92,Completed
+2026-06-28,Fleet - Jordan Taxi,Ceramic Coating,1,400.0,150.79,Completed
+2026-06-29,Fleet - Aramex,Silver Shine Package,1,150.0,47.89,Completed
+2026-06-29,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,8.48,Completed
+2026-06-29,Omar Zaid,Exterior Wash,1,45.0,10.86,Completed
+2026-06-29,Fleet - Aramex,Interior Steam Clean,1,70.0,20.88,Pending
+2026-06-29,Maya Faris,Ceramic Coating,1,400.0,163.48,Completed
+2026-06-30,Lina Haddad,Exterior Wash,1,45.0,11.75,Completed
+2026-06-30,Rana Khalil,Interior Steam Clean,1,70.0,19.36,Completed
+2026-06-30,Fleet - Aramex,Exterior Wash,1,45.0,11.04,Completed
+2026-06-30,Rana Khalil,Tire & Rim Care,1,30.0,7.52,Completed
+2026-07-01,Yousef Nasser,Silver Shine Package,1,130.83,56.78,Completed
+2026-07-01,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,17.11,Completed
+2026-07-02,Ahmad Omar,Silver Shine Package,1,150.0,52.55,Completed
+2026-07-02,Tariq Aziz,Exterior Wash,1,45.0,12.1,Completed
+2026-07-02,Lina Haddad,Wax Gift + Wash,1,100.0,32.62,Completed
+2026-07-02,Dana Sami,Tire & Rim Care,1,30.0,7.67,Completed
+2026-07-02,Rana Khalil,Tire & Rim Care,1,30.0,8.42,Completed
+2026-07-02,Khaled Mansour,Tire & Rim Care,1,30.0,7.39,Pending
+2026-07-02,Fleet - Jordan Taxi,Interior Steam Clean,1,58.78,21.39,Completed
+2026-07-03,Dana Sami,Interior Steam Clean,1,70.0,18.99,Completed
+2026-07-03,Yousef Nasser,Full Detailing,1,150.0,59.84,Completed
+2026-07-03,Rana Khalil,Ceramic Coating,1,400.0,159.7,Completed
+2026-07-03,Dana Sami,Silver Shine Package,1,150.0,51.32,Completed
+2026-07-03,Ahmad Omar,Interior Steam Clean,1,66.0,21.81,Completed
+2026-07-04,Yousef Nasser,Interior Steam Clean,1,57.25,21.67,Completed
+2026-07-04,Sari Refai,Full Detailing,1,150.0,53.9,Completed
+2026-07-05,Dana Sami,Full Detailing,1,150.0,59.63,Completed
+2026-07-05,Sari Refai,Full Detailing,1,127.7,56.35,Completed
+2026-07-05,Tariq Aziz,Exterior Wash,1,45.0,11.31,Completed
+2026-07-05,Yousef Nasser,Ceramic Coating,1,400.0,144.07,Completed
+2026-07-06,Omar Zaid,Silver Shine Package,1,123.43,53.38,Completed
+2026-07-06,Maya Faris,Silver Shine Package,1,150.0,54.35,Completed
+2026-07-07,Lina Haddad,Wax Gift + Wash,1,100.0,37.42,Completed
+2026-07-07,Yousef Nasser,Exterior Wash,1,45.0,12.6,Completed
+2026-07-07,Fleet - Aramex,Full Detailing,1,150.0,56.76,Completed
+2026-07-07,Tariq Aziz,Full Detailing,1,150.0,57.62,Completed
+2026-07-07,Omar Zaid,Silver Shine Package,1,150.0,54.29,Completed
+2026-07-08,Yousef Nasser,Wax Gift + Wash,1,100.0,32.14,Completed
+2026-07-08,Maya Faris,Full Detailing,1,150.0,56.79,Completed
+2026-07-08,Fleet - Al Salam Co,Exterior Wash,1,45.0,12.67,Completed
+2026-07-08,Fleet - Jordan Taxi,Ceramic Coating,1,400.0,165.37,Completed
+2026-07-09,Yousef Nasser,Interior Steam Clean,1,70.0,21.64,Completed
+2026-07-10,Maya Faris,Full Detailing,1,150.0,60.24,Completed
+2026-07-10,Khaled Mansour,Silver Shine Package,1,150.0,50.96,Completed
+2026-07-10,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,17.8,Completed
+2026-07-10,Rana Khalil,Ceramic Coating,1,400.0,161.43,Completed
+2026-07-10,Dana Sami,Engine Bay Clean,1,60.0,17.4,Completed
+2026-07-11,Maya Faris,Interior Steam Clean,1,70.0,19.03,Completed
+2026-07-11,Khaled Mansour,Silver Shine Package,1,150.0,49.08,Completed
+2026-07-11,Khaled Mansour,Tire & Rim Care,1,30.0,7.21,Completed
+2026-07-11,Rana Khalil,Exterior Wash,1,45.0,12.81,Completed
+2026-07-11,Khaled Mansour,Interior Steam Clean,1,70.0,19.56,Completed
+2026-07-11,Fleet - Aramex,Silver Shine Package,1,150.0,48.4,Completed
+2026-07-11,Fleet - Jordan Taxi,Silver Shine Package,1,150.0,57.0,Pending
+2026-07-11,Sari Refai,Engine Bay Clean,1,55.12,17.17,Completed
+2026-07-11,Omar Zaid,Ceramic Coating,1,400.0,170.64,Completed
+2026-07-12,Khaled Mansour,Wax Gift + Wash,1,100.0,36.3,Completed
+2026-07-13,Ahmad Omar,Engine Bay Clean,1,60.0,17.35,Cancelled
+2026-07-13,Omar Zaid,Full Detailing,1,150.0,50.07,Completed
+2026-07-13,Rana Khalil,Engine Bay Clean,1,60.0,19.2,Completed
+2026-07-14,Dana Sami,Interior Steam Clean,1,70.0,18.58,Completed
+2026-07-14,Rana Khalil,Ceramic Coating,1,329.21,146.16,Completed
+2026-07-14,Sari Refai,Wax Gift + Wash,1,86.54,36.92,Completed
+2026-07-14,Tariq Aziz,Exterior Wash,1,45.0,11.2,Completed
+2026-07-15,Fleet - Al Salam Co,Silver Shine Package,1,128.88,54.47,Completed
+2026-07-15,Lina Haddad,Full Detailing,1,150.0,57.75,Completed
+2026-07-15,Dana Sami,Engine Bay Clean,1,60.0,16.99,Completed
+2026-07-16,Lina Haddad,Interior Steam Clean,1,70.0,21.29,Completed
+2026-07-16,Omar Zaid,Exterior Wash,1,45.0,11.13,Cancelled
+2026-07-17,Fleet - Aramex,Engine Bay Clean,1,60.0,18.85,Completed
+2026-07-17,Khaled Mansour,Exterior Wash,1,45.0,12.79,Completed
+2026-07-17,Fleet - Aramex,Engine Bay Clean,1,48.45,17.95,Completed
+2026-07-17,Yousef Nasser,Wax Gift + Wash,1,100.0,36.81,Completed
+2026-07-17,Lina Haddad,Tire & Rim Care,1,30.0,7.63,Completed
+2026-07-17,Dana Sami,Interior Steam Clean,1,70.0,20.26,Completed
+2026-07-18,Khaled Mansour,Engine Bay Clean,1,60.0,18.53,Completed
+2026-07-19,Dana Sami,Tire & Rim Care,1,30.0,7.3,Completed
+2026-07-19,Dana Sami,Interior Steam Clean,1,70.0,20.72,Completed
+2026-07-20,Lina Haddad,Silver Shine Package,1,150.0,48.63,Completed
+2026-07-21,Rana Khalil,Interior Steam Clean,1,70.0,20.44,Completed
+2026-07-21,Lina Haddad,Silver Shine Package,1,150.0,56.47,Completed
+2026-07-21,Omar Zaid,Exterior Wash,1,36.78,11.09,Completed
+2026-07-22,Omar Zaid,Interior Steam Clean,1,70.0,21.79,Completed
+2026-07-22,Fleet - Aramex,Wax Gift + Wash,1,100.0,38.35,Completed
+2026-07-22,Dana Sami,Full Detailing,1,150.0,60.18,Pending
+2026-07-22,Fleet - Al Salam Co,Silver Shine Package,1,150.0,48.13,Completed
+2026-07-22,Rana Khalil,Engine Bay Clean,1,60.0,16.57,Completed
+2026-07-23,Rana Khalil,Tire & Rim Care,1,30.0,8.69,Pending
+2026-07-23,Omar Zaid,Engine Bay Clean,1,60.0,17.82,Pending
+2026-07-23,Yousef Nasser,Wax Gift + Wash,1,100.0,35.38,Completed
+2026-07-24,Lina Haddad,Full Detailing,1,150.0,53.78,Completed
+2026-07-24,Tariq Aziz,Interior Steam Clean,1,70.0,19.03,Completed
+2026-07-24,Fleet - Al Salam Co,Wax Gift + Wash,1,100.0,35.68,Completed
+2026-07-25,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,16.22,Completed
+2026-07-25,Sari Refai,Wax Gift + Wash,1,100.0,35.44,Completed
+2026-07-26,Fleet - Aramex,Exterior Wash,1,45.0,12.91,Completed
+2026-07-26,Rana Khalil,Ceramic Coating,1,400.0,152.65,Completed
+2026-07-26,Ahmad Omar,Interior Steam Clean,1,70.0,20.15,Completed
+2026-07-26,Fleet - Aramex,Interior Steam Clean,1,70.0,21.42,Completed
+2026-07-27,Dana Sami,Interior Steam Clean,1,70.0,20.26,Completed
+2026-07-27,Fleet - Aramex,Engine Bay Clean,1,60.0,17.73,Pending
+2026-07-27,Ahmad Omar,Full Detailing,1,150.0,58.24,Completed
+2026-07-28,Sari Refai,Exterior Wash,1,45.0,11.91,Completed
+2026-07-28,Maya Faris,Engine Bay Clean,1,60.0,17.56,Completed
+2026-07-28,Maya Faris,Tire & Rim Care,1,26.08,8.04,Pending
+2026-07-29,Lina Haddad,Interior Steam Clean,1,70.0,21.79,Completed
+2026-07-30,Maya Faris,Wax Gift + Wash,1,100.0,35.94,Completed
+2026-07-30,Rana Khalil,Silver Shine Package,1,150.0,52.36,Completed
+2026-07-30,Fleet - Aramex,Full Detailing,1,150.0,49.94,Completed
+2026-07-31,Tariq Aziz,Engine Bay Clean,1,60.0,16.62,Completed
+2026-07-31,Sari Refai,Full Detailing,1,150.0,51.21,Completed
+2026-08-01,Yousef Nasser,Wax Gift + Wash,1,100.0,32.83,Completed
+2026-08-01,Yousef Nasser,Wax Gift + Wash,1,100.0,32.16,Completed
+2026-08-01,Khaled Mansour,Tire & Rim Care,1,30.0,8.76,Completed
+2026-08-01,Fleet - Al Salam Co,Wax Gift + Wash,1,100.0,32.39,Pending
+2026-08-02,Yousef Nasser,Tire & Rim Care,1,30.0,7.83,Completed
+2026-08-02,Ahmad Omar,Exterior Wash,1,41.26,11.87,Completed
+2026-08-02,Ahmad Omar,Ceramic Coating,1,400.0,149.04,Completed
+2026-08-02,Lina Haddad,Tire & Rim Care,1,30.0,7.55,Completed
+2026-08-02,Fleet - Jordan Taxi,Wax Gift + Wash,1,100.0,33.15,Cancelled
+2026-08-02,Sari Refai,Wax Gift + Wash,1,100.0,31.94,Completed
+2026-08-03,Fleet - Jordan Taxi,Interior Steam Clean,1,70.0,21.46,Completed
+2026-08-03,Fleet - Aramex,Wax Gift + Wash,1,100.0,32.13,Completed
+2026-08-03,Maya Faris,Interior Steam Clean,1,70.0,19.51,Pending
+2026-08-03,Fleet - Al Salam Co,Full Detailing,1,150.0,51.51,Completed
+2026-08-04,Fleet - Jordan Taxi,Full Detailing,1,150.0,59.8,Completed
+2026-08-04,Lina Haddad,Tire & Rim Care,1,26.24,8.03,Completed
+2026-08-04,Yousef Nasser,Wax Gift + Wash,1,100.0,34.9,Cancelled
+2026-08-04,Dana Sami,Wax Gift + Wash,1,100.0,31.97,Completed
+2026-08-04,Tariq Aziz,Wax Gift + Wash,1,100.0,31.86,Completed
+2026-08-04,Fleet - Aramex,Wax Gift + Wash,1,100.0,37.78,Completed
+2026-08-04,Tariq Aziz,Silver Shine Package,1,138.5,54.93,Completed
+2026-08-04,Omar Zaid,Ceramic Coating,1,400.0,171.4,Completed
+2026-08-04,Omar Zaid,Engine Bay Clean,1,60.0,18.62,Completed
+2026-08-04,Fleet - Aramex,Ceramic Coating,1,400.0,157.6,Completed
+2026-08-04,Sari Refai,Tire & Rim Care,1,30.0,7.94,Completed
+2026-08-04,Lina Haddad,Wax Gift + Wash,1,100.0,32.42,Completed
+2026-08-04,Ahmad Omar,Interior Steam Clean,1,70.0,21.58,Completed
+2026-08-04,Yousef Nasser,Engine Bay Clean,1,56.6,16.76,Completed
+2026-08-04,Rana Khalil,Interior Steam Clean,1,70.0,21.53,Completed
+2026-08-04,Tariq Aziz,Engine Bay Clean,1,60.0,16.83,Completed
+2026-08-04,Fleet - Al Salam Co,Full Detailing,1,150.0,52.51,Completed
+2026-08-04,Rana Khalil,Interior Steam Clean,1,61.78,20.82,Completed
+2026-08-05,Lina Haddad,Exterior Wash,1,45.0,11.92,Completed
+2026-08-05,Omar Zaid,Full Detailing,1,150.0,57.77,Completed
+2026-08-05,Rana Khalil,Full Detailing,1,150.0,54.33,Completed
+2026-08-05,Yousef Nasser,Engine Bay Clean,1,60.0,17.05,Completed
+2026-08-05,Rana Khalil,Tire & Rim Care,1,30.0,8.23,Completed
+2026-08-05,Fleet - Jordan Taxi,Exterior Wash,1,45.0,12.27,Completed
+2026-08-06,Dana Sami,Ceramic Coating,1,348.63,157.04,Completed
+2026-08-06,Khaled Mansour,Silver Shine Package,1,150.0,55.5,Cancelled
+2026-08-06,Lina Haddad,Exterior Wash,1,45.0,12.83,Completed
+2026-08-07,Fleet - Aramex,Engine Bay Clean,1,60.0,18.21,Completed
+2026-08-07,Lina Haddad,Full Detailing,1,150.0,50.14,Completed
+2026-08-07,Fleet - Aramex,Engine Bay Clean,1,60.0,19.2,Completed
+2026-08-07,Tariq Aziz,Engine Bay Clean,1,60.0,19.12,Completed
+2026-08-07,Yousef Nasser,Ceramic Coating,1,400.0,148.48,Completed
+2026-08-07,Omar Zaid,Engine Bay Clean,1,60.0,17.19,Completed
+2026-08-08,Fleet - Al Salam Co,Tire & Rim Care,1,30.0,7.81,Completed
+2026-08-08,Maya Faris,Tire & Rim Care,1,30.0,8.11,Completed
+2026-08-08,Fleet - Aramex,Full Detailing,1,124.68,55.21,Completed
+2026-08-08,Rana Khalil,Tire & Rim Care,1,25.78,7.79,Completed
+2026-08-09,Omar Zaid,Wax Gift + Wash,1,100.0,37.53,Completed
+2026-08-10,Ahmad Omar,Engine Bay Clean,1,60.0,16.55,Completed
+2026-08-10,Dana Sami,Silver Shine Package,1,150.0,48.73,Completed
+2026-08-10,Lina Haddad,Silver Shine Package,1,150.0,56.24,Completed
+2026-08-10,Fleet - Al Salam Co,Wax Gift + Wash,1,100.0,33.42,Completed
+2026-08-10,Dana Sami,Full Detailing,1,141.24,51.97,Completed
+2026-08-11,Lina Haddad,Exterior Wash,1,45.0,12.68,Completed
+2026-08-11,Khaled Mansour,Interior Steam Clean,1,70.0,21.39,Completed
+2026-08-12,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,8.19,Completed
+2026-08-13,Lina Haddad,Tire & Rim Care,1,30.0,8.39,Completed
+2026-08-13,Fleet - Al Salam Co,Exterior Wash,1,45.0,11.49,Completed
+2026-08-13,Rana Khalil,Exterior Wash,1,45.0,12.01,Completed
+2026-08-13,Khaled Mansour,Wax Gift + Wash,1,100.0,37.01,Pending
+2026-08-14,Omar Zaid,Ceramic Coating,1,400.0,167.1,Pending
+2026-08-14,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,7.76,Completed
+2026-08-14,Sari Refai,Engine Bay Clean,1,60.0,16.54,Cancelled
+2026-08-14,Omar Zaid,Wax Gift + Wash,1,100.0,33.49,Completed
+2026-08-15,Fleet - Aramex,Tire & Rim Care,1,30.0,7.24,Completed
+2026-08-15,Lina Haddad,Silver Shine Package,1,150.0,52.66,Completed
+2026-08-15,Fleet - Al Salam Co,Silver Shine Package,1,127.84,47.12,Completed
+2026-08-15,Omar Zaid,Tire & Rim Care,1,30.0,7.28,Completed
+2026-08-15,Dana Sami,Engine Bay Clean,1,60.0,18.89,Completed
+2026-08-15,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,18.11,Completed
+2026-08-16,Omar Zaid,Tire & Rim Care,1,28.31,8.22,Completed
+2026-08-17,Lina Haddad,Full Detailing,1,150.0,58.43,Completed
+2026-08-17,Ahmad Omar,Full Detailing,1,150.0,60.2,Completed
+2026-08-17,Fleet - Jordan Taxi,Interior Steam Clean,1,70.0,19.33,Completed
+2026-08-17,Ahmad Omar,Interior Steam Clean,1,70.0,18.48,Completed
+2026-08-18,Ahmad Omar,Exterior Wash,1,45.0,12.19,Completed
+2026-08-18,Omar Zaid,Tire & Rim Care,1,30.0,8.22,Completed
+2026-08-19,Dana Sami,Interior Steam Clean,1,70.0,21.19,Completed
+2026-08-19,Tariq Aziz,Full Detailing,1,150.0,58.76,Completed
+2026-08-19,Rana Khalil,Engine Bay Clean,1,60.0,19.28,Completed
+2026-08-20,Maya Faris,Exterior Wash,1,45.0,11.51,Pending
+2026-08-20,Khaled Mansour,Ceramic Coating,1,400.0,161.74,Completed
+2026-08-21,Sari Refai,Wax Gift + Wash,1,86.7,32.11,Completed
+2026-08-21,Lina Haddad,Ceramic Coating,1,400.0,167.77,Completed
+2026-08-21,Dana Sami,Interior Steam Clean,1,70.0,21.04,Completed
+2026-08-21,Dana Sami,Ceramic Coating,1,400.0,163.83,Completed
+2026-08-21,Fleet - Aramex,Ceramic Coating,1,400.0,163.26,Completed
+2026-08-22,Fleet - Jordan Taxi,Wax Gift + Wash,1,100.0,34.78,Pending
+2026-08-22,Khaled Mansour,Ceramic Coating,1,400.0,150.94,Completed
+2026-08-22,Ahmad Omar,Interior Steam Clean,1,60.54,21.08,Completed
+2026-08-23,Fleet - Aramex,Engine Bay Clean,1,60.0,19.59,Completed
+2026-08-24,Maya Faris,Silver Shine Package,1,150.0,54.7,Completed
+2026-08-24,Fleet - Aramex,Interior Steam Clean,1,70.0,21.02,Completed
+2026-08-25,Yousef Nasser,Full Detailing,1,150.0,55.91,Completed
+2026-08-25,Ahmad Omar,Ceramic Coating,1,400.0,164.45,Completed
+2026-08-25,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,16.93,Completed
+2026-08-26,Maya Faris,Wax Gift + Wash,1,100.0,35.43,Completed
+2026-08-26,Dana Sami,Interior Steam Clean,1,70.0,19.63,Completed
+2026-08-26,Omar Zaid,Engine Bay Clean,1,60.0,16.66,Completed
+2026-08-26,Lina Haddad,Silver Shine Package,1,150.0,51.44,Completed
+2026-08-26,Fleet - Aramex,Interior Steam Clean,1,70.0,18.08,Completed
+2026-08-26,Rana Khalil,Ceramic Coating,1,400.0,164.99,Completed
+2026-08-26,Fleet - Aramex,Full Detailing,1,121.24,49.74,Completed
+2026-08-27,Omar Zaid,Engine Bay Clean,1,55.22,19.41,Completed
+2026-08-27,Khaled Mansour,Exterior Wash,1,45.0,12.12,Pending
+2026-08-27,Ahmad Omar,Engine Bay Clean,1,60.0,18.58,Completed
+2026-08-28,Tariq Aziz,Engine Bay Clean,1,60.0,17.47,Completed
+2026-08-28,Tariq Aziz,Silver Shine Package,1,129.88,53.5,Completed
+2026-08-28,Dana Sami,Wax Gift + Wash,1,100.0,36.48,Completed
+2026-08-28,Ahmad Omar,Exterior Wash,1,45.0,12.25,Completed
+2026-08-28,Khaled Mansour,Interior Steam Clean,1,58.35,19.66,Completed
+2026-08-29,Fleet - Aramex,Full Detailing,1,150.0,49.63,Completed
+2026-08-29,Lina Haddad,Tire & Rim Care,1,30.0,8.75,Pending
+2026-08-29,Khaled Mansour,Interior Steam Clean,1,64.92,20.46,Pending
+2026-08-29,Maya Faris,Wax Gift + Wash,1,100.0,32.58,Completed
+2026-08-29,Tariq Aziz,Engine Bay Clean,1,54.57,19.26,Completed
+2026-08-30,Rana Khalil,Silver Shine Package,1,150.0,51.62,Completed
+2026-08-30,Fleet - Aramex,Wax Gift + Wash,1,100.0,33.01,Pending
+2026-08-30,Lina Haddad,Tire & Rim Care,1,30.0,7.59,Completed
+2026-08-30,Maya Faris,Wax Gift + Wash,1,100.0,33.31,Completed
+2026-08-31,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,16.46,Completed
+2026-08-31,Dana Sami,Silver Shine Package,1,150.0,49.77,Completed
+2026-09-01,Maya Faris,Full Detailing,1,150.0,51.06,Completed
+2026-09-01,Ahmad Omar,Full Detailing,1,150.0,50.02,Completed
+2026-09-01,Maya Faris,Full Detailing,1,129.92,55.24,Completed
+2026-09-01,Yousef Nasser,Full Detailing,1,133.82,53.61,Completed
+2026-09-01,Omar Zaid,Engine Bay Clean,1,48.12,17.84,Completed
+2026-09-01,Omar Zaid,Full Detailing,1,150.0,53.66,Completed
+2026-09-02,Tariq Aziz,Wax Gift + Wash,1,100.0,34.45,Completed
+2026-09-03,Khaled Mansour,Ceramic Coating,1,400.0,153.11,Completed
+2026-09-03,Yousef Nasser,Tire & Rim Care,1,30.0,8.77,Pending
+2026-09-03,Sari Refai,Engine Bay Clean,1,60.0,18.17,Completed
+2026-09-04,Ahmad Omar,Interior Steam Clean,1,70.0,19.3,Completed
+2026-09-04,Dana Sami,Exterior Wash,1,45.0,11.94,Completed
+2026-09-05,Sari Refai,Interior Steam Clean,1,70.0,19.69,Completed
+2026-09-05,Fleet - Aramex,Exterior Wash,1,45.0,13.13,Cancelled
+2026-09-06,Fleet - Jordan Taxi,Full Detailing,1,150.0,55.34,Completed
+2026-09-06,Fleet - Aramex,Ceramic Coating,1,400.0,153.64,Completed
+2026-09-06,Khaled Mansour,Exterior Wash,1,45.0,12.43,Completed
+2026-09-07,Rana Khalil,Wax Gift + Wash,1,100.0,36.52,Completed
+2026-09-07,Ahmad Omar,Silver Shine Package,1,150.0,52.75,Completed
+2026-09-08,Dana Sami,Wax Gift + Wash,1,83.58,36.73,Completed
+2026-09-08,Fleet - Jordan Taxi,Interior Steam Clean,1,70.0,20.43,Pending
+2026-09-08,Tariq Aziz,Interior Steam Clean,1,70.0,21.97,Completed
+2026-09-09,Omar Zaid,Full Detailing,1,150.0,49.66,Completed
+2026-09-09,Fleet - Aramex,Exterior Wash,1,45.0,10.89,Pending
+2026-09-10,Yousef Nasser,Exterior Wash,1,45.0,11.71,Completed
+2026-09-10,Omar Zaid,Silver Shine Package,1,150.0,50.21,Completed
+2026-09-11,Khaled Mansour,Exterior Wash,1,45.0,13.03,Cancelled
+2026-09-12,Fleet - Al Salam Co,Engine Bay Clean,1,60.0,19.55,Completed
+2026-09-12,Omar Zaid,Exterior Wash,1,45.0,11.02,Completed
+2026-09-12,Maya Faris,Full Detailing,1,137.33,58.29,Completed
+2026-09-12,Rana Khalil,Wax Gift + Wash,1,100.0,33.43,Completed
+2026-09-12,Omar Zaid,Ceramic Coating,1,346.89,152.49,Cancelled
+2026-09-12,Sari Refai,Silver Shine Package,1,150.0,49.61,Completed
+2026-09-12,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,7.72,Completed
+2026-09-12,Dana Sami,Wax Gift + Wash,1,100.0,35.02,Completed
+2026-09-13,Khaled Mansour,Wax Gift + Wash,1,100.0,37.27,Pending
+2026-09-14,Lina Haddad,Full Detailing,1,150.0,55.93,Completed
+2026-09-14,Yousef Nasser,Full Detailing,1,150.0,50.77,Completed
+2026-09-14,Yousef Nasser,Wax Gift + Wash,1,100.0,35.68,Completed
+2026-09-14,Fleet - Al Salam Co,Interior Steam Clean,1,61.38,19.03,Completed
+2026-09-14,Yousef Nasser,Engine Bay Clean,1,56.43,16.87,Completed
+2026-09-15,Ahmad Omar,Engine Bay Clean,1,60.0,17.84,Completed
+2026-09-15,Fleet - Al Salam Co,Tire & Rim Care,1,30.0,7.34,Pending
+2026-09-15,Ahmad Omar,Ceramic Coating,1,400.0,174.32,Completed
+2026-09-15,Maya Faris,Full Detailing,1,150.0,54.08,Completed
+2026-09-16,Tariq Aziz,Silver Shine Package,1,120.87,53.6,Completed
+2026-09-16,Omar Zaid,Full Detailing,1,150.0,59.95,Completed
+2026-09-17,Rana Khalil,Ceramic Coating,1,400.0,153.5,Completed
+2026-09-17,Khaled Mansour,Exterior Wash,1,45.0,11.73,Completed
+2026-09-17,Lina Haddad,Interior Steam Clean,1,70.0,20.51,Completed
+2026-09-18,Fleet - Aramex,Silver Shine Package,1,129.65,57.06,Completed
+2026-09-18,Omar Zaid,Tire & Rim Care,1,26.53,7.4,Completed
+2026-09-18,Ahmad Omar,Tire & Rim Care,1,30.0,8.59,Completed
+2026-09-18,Maya Faris,Wax Gift + Wash,1,100.0,36.78,Completed
+2026-09-18,Sari Refai,Tire & Rim Care,1,30.0,8.09,Completed
+2026-09-18,Lina Haddad,Engine Bay Clean,1,60.0,18.53,Completed
+2026-09-18,Fleet - Jordan Taxi,Silver Shine Package,1,150.0,54.12,Completed
+2026-09-18,Lina Haddad,Full Detailing,1,139.98,57.91,Completed
+2026-09-19,Maya Faris,Interior Steam Clean,1,63.65,18.02,Completed
+2026-09-19,Tariq Aziz,Ceramic Coating,1,400.0,168.21,Completed
+2026-09-19,Fleet - Jordan Taxi,Silver Shine Package,1,150.0,50.18,Completed
+2026-09-19,Dana Sami,Tire & Rim Care,1,30.0,8.16,Completed
+2026-09-19,Fleet - Al Salam Co,Ceramic Coating,1,400.0,156.31,Completed
+2026-09-20,Lina Haddad,Full Detailing,1,150.0,54.96,Completed
+2026-09-20,Sari Refai,Ceramic Coating,1,324.02,146.57,Completed
+2026-09-21,Khaled Mansour,Interior Steam Clean,1,70.0,20.32,Completed
+2026-09-21,Yousef Nasser,Silver Shine Package,1,150.0,51.26,Completed
+2026-09-21,Maya Faris,Exterior Wash,1,45.0,11.69,Completed
+2026-09-22,Fleet - Aramex,Wax Gift + Wash,1,90.92,36.57,Completed
+2026-09-23,Ahmad Omar,Exterior Wash,1,36.38,12.85,Completed
+2026-09-23,Tariq Aziz,Interior Steam Clean,1,70.0,21.18,Completed
+2026-09-24,Fleet - Al Salam Co,Wax Gift + Wash,1,87.16,37.7,Completed
+2026-09-24,Tariq Aziz,Engine Bay Clean,1,60.0,17.71,Completed
+2026-09-24,Rana Khalil,Exterior Wash,1,45.0,11.91,Completed
+2026-09-25,Lina Haddad,Full Detailing,1,150.0,50.97,Completed
+2026-09-25,Tariq Aziz,Silver Shine Package,1,150.0,49.27,Completed
+2026-09-25,Yousef Nasser,Interior Steam Clean,1,56.5,21.95,Completed
+2026-09-26,Khaled Mansour,Tire & Rim Care,1,30.0,7.77,Completed
+2026-09-26,Lina Haddad,Exterior Wash,1,45.0,11.42,Cancelled
+2026-09-27,Khaled Mansour,Silver Shine Package,1,150.0,55.04,Completed
+2026-09-28,Dana Sami,Tire & Rim Care,1,30.0,8.29,Pending
+2026-09-28,Fleet - Aramex,Ceramic Coating,1,400.0,161.2,Pending
+2026-09-28,Fleet - Aramex,Silver Shine Package,1,125.33,47.5,Completed
+2026-09-28,Fleet - Aramex,Tire & Rim Care,1,24.89,8.42,Completed
+2026-09-29,Fleet - Al Salam Co,Exterior Wash,1,45.0,12.62,Completed
+2026-09-29,Fleet - Al Salam Co,Exterior Wash,1,45.0,12.21,Completed
+2026-09-30,Maya Faris,Full Detailing,1,150.0,54.8,Completed
+2026-09-30,Khaled Mansour,Tire & Rim Care,1,25.82,8.13,Completed
+2026-09-30,Maya Faris,Wax Gift + Wash,1,100.0,35.99,Completed
+2026-09-30,Fleet - Al Salam Co,Full Detailing,1,150.0,55.41,Completed
+2026-09-30,Fleet - Al Salam Co,Wax Gift + Wash,1,84.1,37.61,Completed
+2026-09-30,Maya Faris,Wax Gift + Wash,1,88.88,33.05,Completed
+2026-09-30,Rana Khalil,Engine Bay Clean,1,60.0,18.33,Completed
+2026-10-01,Sari Refai,Full Detailing,1,124.34,53.61,Pending
+2026-10-01,Fleet - Aramex,Ceramic Coating,1,400.0,147.38,Completed
+2026-10-01,Rana Khalil,Interior Steam Clean,1,70.0,19.53,Completed
+2026-10-01,Khaled Mansour,Tire & Rim Care,1,30.0,8.17,Completed
+2026-10-01,Fleet - Aramex,Ceramic Coating,1,400.0,145.63,Pending
+2026-10-02,Fleet - Al Salam Co,Ceramic Coating,1,400.0,170.53,Pending
+2026-10-02,Yousef Nasser,Engine Bay Clean,1,56.46,19.57,Completed
+2026-10-02,Fleet - Jordan Taxi,Wax Gift + Wash,1,100.0,34.44,Completed
+2026-10-02,Ahmad Omar,Tire & Rim Care,1,25.05,8.54,Completed
+2026-10-02,Fleet - Jordan Taxi,Interior Steam Clean,1,70.0,18.86,Completed
+2026-10-02,Lina Haddad,Full Detailing,1,150.0,53.55,Completed
+2026-10-03,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,19.01,Completed
+2026-10-03,Rana Khalil,Interior Steam Clean,1,61.35,20.03,Completed
+2026-10-03,Fleet - Al Salam Co,Silver Shine Package,1,150.0,52.29,Completed
+2026-10-03,Rana Khalil,Ceramic Coating,1,400.0,149.53,Completed
+2026-10-03,Khaled Mansour,Full Detailing,1,150.0,54.99,Completed
+2026-10-03,Maya Faris,Exterior Wash,1,45.0,11.48,Completed
+2026-10-03,Yousef Nasser,Engine Bay Clean,1,50.36,16.31,Completed
+2026-10-03,Maya Faris,Tire & Rim Care,1,30.0,8.39,Completed
+2026-10-03,Rana Khalil,Wax Gift + Wash,1,100.0,31.79,Completed
+2026-10-04,Khaled Mansour,Engine Bay Clean,1,60.0,19.18,Completed
+2026-10-04,Yousef Nasser,Wax Gift + Wash,1,100.0,37.51,Completed
+2026-10-04,Ahmad Omar,Ceramic Coating,1,400.0,144.83,Completed
+2026-10-05,Fleet - Jordan Taxi,Tire & Rim Care,1,26.0,7.47,Completed
+2026-10-06,Yousef Nasser,Tire & Rim Care,1,30.0,7.34,Completed
+2026-10-06,Khaled Mansour,Silver Shine Package,1,150.0,51.08,Pending
+2026-10-06,Maya Faris,Tire & Rim Care,1,30.0,8.41,Completed
+2026-10-06,Fleet - Al Salam Co,Exterior Wash,1,40.15,12.4,Completed
+2026-10-06,Rana Khalil,Exterior Wash,1,45.0,12.77,Completed
+2026-10-07,Khaled Mansour,Silver Shine Package,1,150.0,56.18,Completed
+2026-10-07,Fleet - Jordan Taxi,Full Detailing,1,150.0,52.01,Completed
+2026-10-07,Ahmad Omar,Ceramic Coating,1,400.0,161.93,Completed
+2026-10-08,Ahmad Omar,Ceramic Coating,1,400.0,172.41,Completed
+2026-10-08,Lina Haddad,Engine Bay Clean,1,60.0,17.87,Completed
+2026-10-09,Fleet - Jordan Taxi,Full Detailing,1,150.0,59.2,Completed
+2026-10-09,Sari Refai,Engine Bay Clean,1,60.0,19.25,Completed
+2026-10-09,Fleet - Aramex,Exterior Wash,1,45.0,12.75,Completed
+2026-10-09,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,17.62,Pending
+2026-10-09,Khaled Mansour,Silver Shine Package,1,125.08,55.54,Completed
+2026-10-10,Omar Zaid,Silver Shine Package,1,150.0,53.19,Completed
+2026-10-10,Omar Zaid,Wax Gift + Wash,1,100.0,34.8,Completed
+2026-10-10,Ahmad Omar,Wax Gift + Wash,1,100.0,37.22,Completed
+2026-10-10,Tariq Aziz,Engine Bay Clean,1,60.0,19.08,Completed
+2026-10-10,Ahmad Omar,Tire & Rim Care,1,30.0,7.66,Completed
+2026-10-11,Dana Sami,Silver Shine Package,1,150.0,50.77,Completed
+2026-10-11,Dana Sami,Ceramic Coating,1,400.0,149.31,Completed
+2026-10-11,Fleet - Al Salam Co,Tire & Rim Care,1,25.77,8.59,Completed
+2026-10-12,Khaled Mansour,Engine Bay Clean,1,60.0,19.7,Completed
+2026-10-12,Yousef Nasser,Exterior Wash,1,45.0,11.13,Completed
+2026-10-12,Rana Khalil,Tire & Rim Care,1,30.0,8.79,Completed
+2026-10-12,Sari Refai,Silver Shine Package,1,150.0,52.13,Pending
+2026-10-12,Maya Faris,Tire & Rim Care,1,30.0,7.47,Completed
+2026-10-12,Tariq Aziz,Full Detailing,1,150.0,51.0,Completed
+2026-10-13,Lina Haddad,Silver Shine Package,1,150.0,50.27,Completed
+2026-10-14,Dana Sami,Exterior Wash,1,45.0,12.18,Cancelled
+2026-10-14,Dana Sami,Exterior Wash,1,45.0,12.64,Completed
+2026-10-15,Dana Sami,Tire & Rim Care,1,25.01,8.36,Completed
+2026-10-15,Omar Zaid,Tire & Rim Care,1,27.97,8.59,Completed
+2026-10-15,Tariq Aziz,Wax Gift + Wash,1,100.0,35.18,Completed
+2026-10-16,Dana Sami,Engine Bay Clean,1,60.0,18.63,Completed
+2026-10-16,Fleet - Al Salam Co,Exterior Wash,1,45.0,11.19,Completed
+2026-10-16,Lina Haddad,Tire & Rim Care,1,30.0,8.41,Completed
+2026-10-17,Ahmad Omar,Silver Shine Package,1,134.35,50.45,Completed
+2026-10-17,Yousef Nasser,Interior Steam Clean,1,70.0,20.16,Completed
+2026-10-17,Fleet - Aramex,Wax Gift + Wash,1,100.0,37.35,Completed
+2026-10-17,Lina Haddad,Exterior Wash,1,45.0,12.83,Cancelled
+2026-10-18,Sari Refai,Wax Gift + Wash,1,100.0,32.33,Completed
+2026-10-18,Khaled Mansour,Interior Steam Clean,1,70.0,18.74,Completed
+2026-10-18,Lina Haddad,Ceramic Coating,1,372.39,166.19,Completed
+2026-10-18,Dana Sami,Exterior Wash,1,39.77,12.23,Completed
+2026-10-18,Omar Zaid,Full Detailing,1,150.0,52.67,Completed
+2026-10-18,Fleet - Aramex,Engine Bay Clean,1,56.6,18.86,Cancelled
+2026-10-19,Omar Zaid,Tire & Rim Care,1,30.0,8.52,Completed
+2026-10-19,Fleet - Aramex,Engine Bay Clean,1,60.0,17.17,Completed
+2026-10-19,Rana Khalil,Wax Gift + Wash,1,91.8,34.53,Completed
+2026-10-19,Tariq Aziz,Silver Shine Package,1,150.0,52.91,Completed
+2026-10-20,Tariq Aziz,Exterior Wash,1,45.0,11.71,Completed
+2026-10-21,Fleet - Aramex,Silver Shine Package,1,150.0,52.26,Completed
+2026-10-21,Rana Khalil,Interior Steam Clean,1,60.36,18.5,Completed
+2026-10-21,Yousef Nasser,Silver Shine Package,1,150.0,47.18,Pending
+2026-10-21,Maya Faris,Tire & Rim Care,1,30.0,7.23,Completed
+2026-10-21,Ahmad Omar,Interior Steam Clean,1,58.28,19.61,Completed
+2026-10-21,Dana Sami,Full Detailing,1,123.64,50.53,Completed
+2026-10-22,Omar Zaid,Wax Gift + Wash,1,94.12,32.39,Completed
+2026-10-22,Ahmad Omar,Interior Steam Clean,1,70.0,20.47,Completed
+2026-10-23,Omar Zaid,Wax Gift + Wash,1,100.0,32.54,Pending
+2026-10-23,Fleet - Aramex,Silver Shine Package,1,150.0,53.55,Completed
+2026-10-23,Omar Zaid,Ceramic Coating,1,375.37,166.54,Completed
+2026-10-23,Ahmad Omar,Tire & Rim Care,1,30.0,8.28,Completed
+2026-10-23,Fleet - Al Salam Co,Silver Shine Package,1,150.0,55.69,Completed
+2026-10-24,Lina Haddad,Tire & Rim Care,1,30.0,7.3,Completed
+2026-10-24,Omar Zaid,Wax Gift + Wash,1,100.0,34.06,Completed
+2026-10-24,Tariq Aziz,Full Detailing,1,150.0,51.78,Pending
+2026-10-25,Maya Faris,Wax Gift + Wash,1,100.0,38.41,Completed
+2026-10-25,Lina Haddad,Tire & Rim Care,1,30.0,7.47,Completed
+2026-10-25,Ahmad Omar,Full Detailing,1,150.0,58.28,Completed
+2026-10-25,Fleet - Aramex,Exterior Wash,1,45.0,11.17,Completed
+2026-10-26,Dana Sami,Tire & Rim Care,1,30.0,7.6,Completed
+2026-10-26,Fleet - Jordan Taxi,Engine Bay Clean,1,60.0,19.69,Pending
+2026-10-26,Ahmad Omar,Exterior Wash,1,45.0,12.1,Completed
+2026-10-27,Dana Sami,Full Detailing,1,150.0,50.91,Completed
+2026-10-27,Omar Zaid,Ceramic Coating,1,400.0,164.92,Completed
+2026-10-27,Tariq Aziz,Engine Bay Clean,1,60.0,19.35,Completed
+2026-10-28,Lina Haddad,Wax Gift + Wash,1,100.0,33.19,Completed
+2026-10-29,Lina Haddad,Ceramic Coating,1,400.0,169.31,Pending
+2026-10-30,Tariq Aziz,Tire & Rim Care,1,30.0,8.53,Completed
+2026-10-30,Khaled Mansour,Engine Bay Clean,1,60.0,18.88,Completed
+2026-10-30,Maya Faris,Exterior Wash,1,45.0,11.07,Completed
+2026-10-30,Ahmad Omar,Full Detailing,1,150.0,52.72,Completed
+2026-10-30,Omar Zaid,Ceramic Coating,1,400.0,152.92,Completed
+2026-10-31,Omar Zaid,Silver Shine Package,1,150.0,51.73,Completed
+2026-10-31,Omar Zaid,Wax Gift + Wash,1,100.0,33.37,Completed
+2026-10-31,Fleet - Jordan Taxi,Tire & Rim Care,1,30.0,7.8,Completed
+2026-10-31,Rana Khalil,Tire & Rim Care,1,25.14,8.78,Completed

@@ -1,0 +1,27 @@
+# ===== الواجهة | App =====
+streamlit==1.66.1
+plotly==7.1.0
+
+# ===== البيانات | Data =====
+pandas==3.1.0
+numpy==2.5.4
+pyarrow==26.0.0
+openpyxl==3.1.5
+XlsxWriter==3.3.1
+
+# ===== التعلم الآلي | Machine Learning =====
+scikit-learn==1.9.1
+scipy==1.18.1
+
+# ===== الرسوم والتقارير | Plots & Reports =====
+matplotlib==3.11.2
+reportlab==5.1.0
+arabic-reshaper==3.0.1
+python-bidi==0.6.12
+
+# ===== قواعد البيانات | Databases =====
+# SQLite مدمج في Python — لا يحتاج حزمة | SQLite is built into Python
+pymysql==1.2.3          # MySQL / MariaDB
+psycopg[binary]==3.3.8  # PostgreSQL
+pyodbc==5.5.0           # SQL Server (يتطلب ODBC Driver 18 على الجهاز)
+oracledb==26.1.0        # Oracle (Thin mode — بدون Instant Client)

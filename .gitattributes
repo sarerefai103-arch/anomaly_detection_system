@@ -1,0 +1,12 @@
+# توحيد نهايات الأسطر عبر الأنظمة | Normalize line endings
+* text=auto eol=lf
+
+# ملفات ثنائية | Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.ttf binary
+*.xlsx binary
+*.pyc binary

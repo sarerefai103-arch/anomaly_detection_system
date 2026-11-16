@@ -1,0 +1,29 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# ===== البيئة الافتراضية | Virtual environments =====
+.venv/
+venv/
+env/
+
+# ===== الأسرار ومفاتيح الوصول | Secrets & API keys =====
+.streamlit/secrets.toml
+.env
+*.key
+
+# ===== مخرجات مؤقتة | Temporary outputs =====
+reports/_preview/
+reports/_tmp_*/
+reports/_test_*.pdf
+*.log
+*.db-journal
+
+# ===== نظام التشغيل / المحرر | OS & editor =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
