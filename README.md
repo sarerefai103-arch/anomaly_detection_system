@@ -3,8 +3,8 @@
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.66-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![CI](https://github.com/YOUR_GITHUB_USERNAME/anomaly_detection_system/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/anomaly_detection_system/actions/workflows/ci.yml)
-<!-- بعد إنشاء المستودع: استبدل YOUR_GITHUB_USERNAME باسم حسابك في GitHub -->
+[![CI](https://github.com/sarerefai103-arch/anomaly_detection_system/actions/workflows/ci.yml/badge.svg)](https://github.com/sarerefai103-arch/anomaly_detection_system/actions/workflows/ci.yml)
+<!-- شارة CI تشير إلى مستودع sarerefai103-arch/anomaly_detection_system -->
 
 نظام تفاعلي مبني على **Streamlit** يجمع بين:
 كشف الانحرافات، تحليلات الأعمال، التحليل التنبؤي المدعوم بالذكاء الاصطناعي،
@@ -379,7 +379,7 @@ git push -u origin main
 قبل الرفع تأكد من:
 
 - أن `.streamlit/secrets.toml` و `.env` غير متتبَّعين: `git status --short`.
-- استبدال `YOUR_GITHUB_USERNAME` في شارة CI أعلى هذا الملف.
+- أن شارة CI أعلى الملف تشير إلى مستودعك الصحيح (مضبوطة الآن على `sarerefai103-arch`).
 - عدم وجود مفاتيح أو كلمات مرور داخل أي ملف مُتتبَّع.
 
 ---
